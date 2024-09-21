@@ -1,0 +1,7 @@
+Diagrama de clases Airport
+https://drive.google.com/file/d/1FYxLLuSKujyKJz_yIlxzuvVAUJbxntRR/view?usp=sharing
+
+Crear datos fantasmas
+https://www.mockaroo.com/
+https://sqldatagenerator.com/generator#
+https://www.rndgen.com/data-generator
